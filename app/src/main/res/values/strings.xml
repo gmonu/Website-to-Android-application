@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VERSUS</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="splash_screen">Splashscreenicon</string>
+<string name="operators_exression_button"><![CDATA[Operators & Exression]]></string>
+<string name="setup_basic_program_button"><![CDATA[Setup & Basic program]]></string>
+</resources>
