@@ -1,2 +1,2 @@
 # Website-to-Android-application
-Its a android project which is about to convert any website to Android application. In my case i have choosen gameresidence.com and have converted it to An android application named VERSUS
+This is a Project to Convert any Website to Android Applications . In my case i have choosen gameresidence.com and have converted it to An android application named VERSUS
