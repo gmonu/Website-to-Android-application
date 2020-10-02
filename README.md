@@ -1,5 +1,6 @@
 # Website-to-Android-application
-Its a android project which is about to convert any website to Android application. In my case i have choosen gameresidence.com and have converted it to An android application named VERSUS
+Its a android project which is about to convert any website to Android application. In my case i have choosen gameresidence.com and have converted it to An android application named VERSUS.
+  Versus is nothing but an android application which is having a website of VERSUS website. This website is useful for those who wants to play LAN events or organize LAN gaming event of ESPORTS event.
 
 # Difference between Website and Android app
 
